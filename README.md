@@ -116,7 +116,7 @@ Vou montar um mapa mental agora mostrando:
 - Sequência de testes
 
 Mapa Mental – Estratégia de Testes para a API do Trello (Cypress)
-![img.png](img.png)
+
 ![img](https://github.com/user-attachments/assets/63476420-4f69-48b9-a5d1-5fa4b8496a8a)
 
 ---
