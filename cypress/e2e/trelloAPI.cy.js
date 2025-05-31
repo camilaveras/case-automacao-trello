@@ -6,7 +6,7 @@ describe('Testes da API do Trello', () => {
   let listId;
   let cardId;
 
-it('Verifica variáveis', () => {
+it('Verifica variaveis', () => {
   cy.log('API Key:', Cypress.env('apiKey'));
   cy.log('Token:', Cypress.env('token'));
 });
